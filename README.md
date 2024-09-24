@@ -1,2 +1,3 @@
 # Classification
-Classification using PyTorch
+Classification using PyTorch.
+Make data folder by yourself.
